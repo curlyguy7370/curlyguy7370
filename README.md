@@ -1,10 +1,34 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Spark, Azure and SwiftUI
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+🌱 I’m currently learning Spark, Azure and SwiftUI
+📫 How to reach me: c.riccardo237@gmail.com
+## 👋 Hi, I'm Riccardo Conti  
+
+🎓 I earned my **Master’s degree in Management Engineering (2025)** from **La Sapienza University of Rome**, where I developed a strong foundation in **data analysis, product management, and digital strategy**.  
+
+🚀 I’m passionate about the intersection of **technology, design and strategic business decision-making** and how data-driven insights can turn innovative ideas into impactful products, combining analytical thinking with creativity. 
+
+🔭 I’m particularly interested in **Product Management**, **Data Analytics**, where I can contribute to guiding go-to-market strategies.
+
+---
+
+
+### 🧩 Core Skills
+- **Data Analysis**: Python, A/B testing, Excel, SQL, Tableau, Power BI
+- **Business & Marketing Analytics**: KPI monitoring,
+- **Project & Product Management**: Agile workflows, MVP design, roadmap planning  
+- **Financial & Strategic Decision-Making**: pricing, market segmentation, go-to-market strategy  
+
+---
+
+### 🌍 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-conti/)  
+[![Tableau](https://img.shields.io/badge/Tableau-005571?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/riccardo.conti)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/riccardoconti)  
+
+---
+
+✨ *“Turning data and technology into strategic growth.”*
 
 
 # 💻 Tech Stack:
